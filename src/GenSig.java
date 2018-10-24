@@ -1,7 +1,7 @@
 import java.io.*;
 import java.security.*;
 
-class GenSig {
+public class GenSig {
 
     public static void main(String[] args) {
 
